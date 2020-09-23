@@ -80,7 +80,7 @@ class: top
 
 # Genomics in NZ's pandemic response
 
-### A sequencing success story made possible by the awesome <span style="color:#3498DB"><b>Una Ren</b></span> & <span style="color:#3498DB"><b>Matt Storey</b></span>
+### A sequencing success story made possible by the awesome [**Una Ren**](https://twitter.com/sciolato) & [**Matt Storey**](https://twitter.com/mathstorey)
 
 <article class="cf">
   <div class="fl w-50 bg-white tc">
