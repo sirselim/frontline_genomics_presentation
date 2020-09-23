@@ -312,10 +312,10 @@ Nanopore basecalling benchmarking: [link (ESR GitHub)](https://esr-nz.github.io/
 
 <article class="cf">
   <div class="fl w-50 bg-white tc">
-    <img src="images/geforce2070_JB.png" style="width: 60%; margin-right: 1%; margin-top: 0em;"/>
+    <img src="images/geforce2070_JB.png" style="width: 65%; margin-right: 1%; margin-top: 0em;"/>
   </div>
   <div class="fl w-50 bg-white tc">
-    <img src="images/six_pin_plugs.png" style="width: 60%; margin-right: 1%; margin-top: 0em;"/>
+    <img src="images/six_pin_plugs.png" style="width: 64%; margin-right: 63%; margin-top: 0em;"/>
   </div>
 </article>
 
