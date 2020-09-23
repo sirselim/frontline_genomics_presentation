@@ -173,7 +173,7 @@ class: top
 <br>
 
 * **Clinical diagnostics through genetics**
-  * Contract(s) with CCDHB Wellington Regional Genetics Lab
+  * Contract(s) with CCDHB <span style="color:#3498DB"><b>Wellington Regional Genetics Lab</b></span>
   * Providing support to CCDHB for Clinical Genomics GA project (<span style="color:#3498DB"><b>Stephen Robertson</b></span>)
 
 <br>
