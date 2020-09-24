@@ -1,5 +1,5 @@
 ---
-title: ".huge[Genoimcs at the frontline]"
+title: ".huge[Genomics at the frontline]"
 subtitle: "the power of GPUs"
 author:  | 
   | [Miles Benton](https://twitter.com/miles_benton) & [Joep de Ligt](https://twitter.com/joepdl)
