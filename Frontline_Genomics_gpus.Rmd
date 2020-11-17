@@ -27,6 +27,7 @@ options(htmltools.dir.version = FALSE)
 options(knitr.table.format = "html") 
 # require(DT)
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons", "panelset"))
+xaringanExtra::use_webcam(width = 500, height = 375)
 ```
 
 ```{r xaringan-logo, echo=FALSE}
